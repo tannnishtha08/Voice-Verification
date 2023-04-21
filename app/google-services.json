@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "236094065487",
+    "project_id": "voice-verification-bf9d1",
+    "storage_bucket": "voice-verification-bf9d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236094065487:android:f830cda6aed9185b15933a",
+        "android_client_info": {
+          "package_name": "com.example.voiceverification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236094065487-m6c4g0p113qqnjlgthi6q2ier7b2jh08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj67g3GfwAZg7aHvojUg7Ov4BhPZHiLWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236094065487-m6c4g0p113qqnjlgthi6q2ier7b2jh08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
